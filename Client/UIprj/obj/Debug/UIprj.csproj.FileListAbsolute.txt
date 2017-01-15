@@ -1,0 +1,15 @@
+F:\Project\programer\Lap tring mang\doan Ai la trieu phu\UI\UIprj\UIprj\bin\Debug\UIprj.exe.config
+F:\Project\programer\Lap tring mang\doan Ai la trieu phu\UI\UIprj\UIprj\bin\Debug\UIprj.exe
+F:\Project\programer\Lap tring mang\doan Ai la trieu phu\UI\UIprj\UIprj\bin\Debug\UIprj.pdb
+F:\Project\programer\Lap tring mang\doan Ai la trieu phu\UI\UIprj\UIprj\obj\Debug\UIprj.csprojResolveAssemblyReference.cache
+F:\Project\programer\Lap tring mang\doan Ai la trieu phu\UI\UIprj\UIprj\obj\Debug\UIprj.Form1.resources
+F:\Project\programer\Lap tring mang\doan Ai la trieu phu\UI\UIprj\UIprj\obj\Debug\UIprj.Properties.Resources.resources
+F:\Project\programer\Lap tring mang\doan Ai la trieu phu\UI\UIprj\UIprj\obj\Debug\UIprj.csproj.GenerateResource.Cache
+F:\Project\programer\Lap tring mang\doan Ai la trieu phu\UI\UIprj\UIprj\obj\Debug\UIprj.exe
+F:\Project\programer\Lap tring mang\doan Ai la trieu phu\UI\UIprj\UIprj\obj\Debug\UIprj.pdb
+F:\Project\programer\Lap tring mang\doan Ai la trieu phu\UI\UIprj\UIprj\obj\Debug\UIprj.Form2.resources
+F:\Project\programer\Lap tring mang\doan Ai la trieu phu\UI\UIprj\UIprj\obj\Debug\UIprj.Form3.resources
+F:\Project\programer\Lap tring mang\doan Ai la trieu phu\UI\UIprj\UIprj\obj\Debug\UIprj.Form4.resources
+F:\Project\programer\Lap tring mang\doan Ai la trieu phu\Main\AIlatrieuphu\AIlatrieuphu\UIprj\bin\Debug\UIprj.exe.config
+F:\Project\programer\Lap tring mang\doan Ai la trieu phu\Main\AIlatrieuphu\AIlatrieuphu\UIprj\obj\Debug\UIprj.exe
+F:\Project\programer\Lap tring mang\doan Ai la trieu phu\Main\AIlatrieuphu\AIlatrieuphu\UIprj\obj\Debug\UIprj.pdb

@@ -1,0 +1,21 @@
+F:\Project\programer\Lap tring mang\Tinh Giai Thua Full\Tinh Giai Thua Full - Copy\ROOT\bin\Debug\Server.exe
+F:\Project\programer\Lap tring mang\Tinh Giai Thua Full\Tinh Giai Thua Full - Copy\ROOT\bin\Debug\Server.pdb
+F:\Project\programer\Lap tring mang\Tinh Giai Thua Full\Tinh Giai Thua Full - Copy\ROOT\obj\Debug\root.csprojResolveAssemblyReference.cache
+F:\Project\programer\Lap tring mang\Tinh Giai Thua Full\Tinh Giai Thua Full - Copy\ROOT\obj\Debug\Tinh_Giai_Thua_Full.MainForm.resources
+F:\Project\programer\Lap tring mang\Tinh Giai Thua Full\Tinh Giai Thua Full - Copy\ROOT\obj\Debug\root.csproj.GenerateResource.Cache
+F:\Project\programer\Lap tring mang\Tinh Giai Thua Full\Tinh Giai Thua Full - Copy\ROOT\obj\Debug\Server.exe
+F:\Project\programer\Lap tring mang\Tinh Giai Thua Full\Tinh Giai Thua Full - Copy\ROOT\obj\Debug\Server.pdb
+F:\Project\programer\Lap tring mang\Tinh Giai Thua Full\CHat - Copy - Copy\ROOT\bin\Debug\Server.exe
+F:\Project\programer\Lap tring mang\Tinh Giai Thua Full\CHat - Copy - Copy\ROOT\bin\Debug\Server.pdb
+F:\Project\programer\Lap tring mang\Tinh Giai Thua Full\CHat - Copy - Copy\ROOT\obj\Debug\root.csprojResolveAssemblyReference.cache
+F:\Project\programer\Lap tring mang\Tinh Giai Thua Full\CHat - Copy - Copy\ROOT\obj\Debug\Tinh_Giai_Thua_Full.MainForm.resources
+F:\Project\programer\Lap tring mang\Tinh Giai Thua Full\CHat - Copy - Copy\ROOT\obj\Debug\root.csproj.GenerateResource.Cache
+F:\Project\programer\Lap tring mang\Tinh Giai Thua Full\CHat - Copy - Copy\ROOT\obj\Debug\Server.exe
+F:\Project\programer\Lap tring mang\Tinh Giai Thua Full\CHat - Copy - Copy\ROOT\obj\Debug\Server.pdb
+F:\Project\programer\Lap tring mang\doan Ai la trieu phu\Main\AIlatrieuphu\ROOT\bin\Debug\Server.exe
+F:\Project\programer\Lap tring mang\doan Ai la trieu phu\Main\AIlatrieuphu\ROOT\bin\Debug\Server.pdb
+F:\Project\programer\Lap tring mang\doan Ai la trieu phu\Main\AIlatrieuphu\ROOT\obj\Debug\root.csprojResolveAssemblyReference.cache
+F:\Project\programer\Lap tring mang\doan Ai la trieu phu\Main\AIlatrieuphu\ROOT\obj\Debug\ailatrieuphu.MainForm.resources
+F:\Project\programer\Lap tring mang\doan Ai la trieu phu\Main\AIlatrieuphu\ROOT\obj\Debug\root.csproj.GenerateResource.Cache
+F:\Project\programer\Lap tring mang\doan Ai la trieu phu\Main\AIlatrieuphu\ROOT\obj\Debug\Server.exe
+F:\Project\programer\Lap tring mang\doan Ai la trieu phu\Main\AIlatrieuphu\ROOT\obj\Debug\Server.pdb

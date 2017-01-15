@@ -1,0 +1,7 @@
+F:\Project\programer\Lap tring mang\doan Ai la trieu phu\Main\AIlatrieuphu\ServerUngvien\bin\Debug\Server.exe
+F:\Project\programer\Lap tring mang\doan Ai la trieu phu\Main\AIlatrieuphu\ServerUngvien\bin\Debug\Server.pdb
+F:\Project\programer\Lap tring mang\doan Ai la trieu phu\Main\AIlatrieuphu\ServerUngvien\obj\Debug\ailatrieuphu.MainForm.resources
+F:\Project\programer\Lap tring mang\doan Ai la trieu phu\Main\AIlatrieuphu\ServerUngvien\obj\Debug\ServerUngvien.csproj.GenerateResource.Cache
+F:\Project\programer\Lap tring mang\doan Ai la trieu phu\Main\AIlatrieuphu\ServerUngvien\obj\Debug\Server.exe
+F:\Project\programer\Lap tring mang\doan Ai la trieu phu\Main\AIlatrieuphu\ServerUngvien\obj\Debug\Server.pdb
+F:\Project\programer\Lap tring mang\doan Ai la trieu phu\Main\AIlatrieuphu\ServerUngvien\obj\Debug\ServerUngvien.csprojResolveAssemblyReference.cache

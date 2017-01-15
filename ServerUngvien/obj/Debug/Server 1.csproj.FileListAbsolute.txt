@@ -1,0 +1,20 @@
+F:\Project\programer\Lap tring mang\Tinh Giai Thua Full\Tinh Giai Thua Full - Copy\Tinh Giai Thua Full\bin\Debug\Server.exe
+F:\Project\programer\Lap tring mang\Tinh Giai Thua Full\Tinh Giai Thua Full - Copy\Tinh Giai Thua Full\bin\Debug\Server.pdb
+F:\Project\programer\Lap tring mang\Tinh Giai Thua Full\Tinh Giai Thua Full - Copy\Tinh Giai Thua Full\obj\Debug\Tinh_Giai_Thua_Full.MainForm.resources
+F:\Project\programer\Lap tring mang\Tinh Giai Thua Full\Tinh Giai Thua Full - Copy\Tinh Giai Thua Full\obj\Debug\Server 1.csproj.GenerateResource.Cache
+F:\Project\programer\Lap tring mang\Tinh Giai Thua Full\Tinh Giai Thua Full - Copy\Tinh Giai Thua Full\obj\Debug\Server.exe
+F:\Project\programer\Lap tring mang\Tinh Giai Thua Full\Tinh Giai Thua Full - Copy\Tinh Giai Thua Full\obj\Debug\Server.pdb
+F:\Project\programer\Lap tring mang\Tinh Giai Thua Full\CHat - Copy - Copy\Tinh Giai Thua Full\obj\Debug\Server.exe
+F:\Project\programer\Lap tring mang\Tinh Giai Thua Full\CHat - Copy - Copy\Tinh Giai Thua Full\obj\Debug\Server.pdb
+F:\Project\programer\Lap tring mang\Tinh Giai Thua Full\CHat - Copy - Copy\Tinh Giai Thua Full\bin\Debug\Server.exe
+F:\Project\programer\Lap tring mang\Tinh Giai Thua Full\CHat - Copy - Copy\Tinh Giai Thua Full\bin\Debug\Server.pdb
+F:\Project\programer\Lap tring mang\Tinh Giai Thua Full\CHat - Copy - Copy\Tinh Giai Thua Full\obj\Debug\Server 1.csprojResolveAssemblyReference.cache
+F:\Project\programer\Lap tring mang\Tinh Giai Thua Full\CHat - Copy - Copy\Tinh Giai Thua Full\obj\Debug\Tinh_Giai_Thua_Full.MainForm.resources
+F:\Project\programer\Lap tring mang\Tinh Giai Thua Full\CHat - Copy - Copy\Tinh Giai Thua Full\obj\Debug\Server 1.csproj.GenerateResource.Cache
+F:\Project\programer\Lap tring mang\doan Ai la trieu phu\Main\AIlatrieuphu\Server1\bin\Debug\Server.exe
+F:\Project\programer\Lap tring mang\doan Ai la trieu phu\Main\AIlatrieuphu\Server1\bin\Debug\Server.pdb
+F:\Project\programer\Lap tring mang\doan Ai la trieu phu\Main\AIlatrieuphu\Server1\obj\Debug\Server 1.csprojResolveAssemblyReference.cache
+F:\Project\programer\Lap tring mang\doan Ai la trieu phu\Main\AIlatrieuphu\Server1\obj\Debug\ailatrieuphu.MainForm.resources
+F:\Project\programer\Lap tring mang\doan Ai la trieu phu\Main\AIlatrieuphu\Server1\obj\Debug\Server 1.csproj.GenerateResource.Cache
+F:\Project\programer\Lap tring mang\doan Ai la trieu phu\Main\AIlatrieuphu\Server1\obj\Debug\Server.exe
+F:\Project\programer\Lap tring mang\doan Ai la trieu phu\Main\AIlatrieuphu\Server1\obj\Debug\Server.pdb

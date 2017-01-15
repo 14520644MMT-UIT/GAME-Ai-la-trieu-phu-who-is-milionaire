@@ -1,0 +1,7 @@
+C:\Users\chepchip\Documents\SharpDevelop Projects\Tinh Giai Thua Full\Tinh Giai Thua Full\bin\Debug\Server.exe
+C:\Users\chepchip\Documents\SharpDevelop Projects\Tinh Giai Thua Full\Tinh Giai Thua Full\bin\Debug\Server.pdb
+C:\Users\chepchip\Documents\SharpDevelop Projects\Tinh Giai Thua Full\Tinh Giai Thua Full\obj\Debug\Server.csprojResolveAssemblyReference.cache
+C:\Users\chepchip\Documents\SharpDevelop Projects\Tinh Giai Thua Full\Tinh Giai Thua Full\obj\Debug\Tinh_Giai_Thua_Full.MainForm.resources
+C:\Users\chepchip\Documents\SharpDevelop Projects\Tinh Giai Thua Full\Tinh Giai Thua Full\obj\Debug\Server.csproj.GenerateResource.Cache
+C:\Users\chepchip\Documents\SharpDevelop Projects\Tinh Giai Thua Full\Tinh Giai Thua Full\obj\Debug\Server.exe
+C:\Users\chepchip\Documents\SharpDevelop Projects\Tinh Giai Thua Full\Tinh Giai Thua Full\obj\Debug\Server.pdb

@@ -1,0 +1,14 @@
+F:\Project\programer\Lap tring mang\doan Ai la trieu phu\Main\AIlatrieuphu\Client\UIprj\bin\Debug\UIprj.exe.config
+F:\Project\programer\Lap tring mang\doan Ai la trieu phu\Main\AIlatrieuphu\Client\UIprj\obj\Debug\UIprj.exe
+F:\Project\programer\Lap tring mang\doan Ai la trieu phu\Main\AIlatrieuphu\Client\UIprj\obj\Debug\UIprj.pdb
+F:\Project\programer\Lap tring mang\doan Ai la trieu phu\Main\AIlatrieuphu\Client\UIprj\obj\Debug\Client.csprojResolveAssemblyReference.cache
+F:\Project\programer\Lap tring mang\doan Ai la trieu phu\Main\AIlatrieuphu\Client\UIprj\obj\Debug\Client.Form1.resources
+F:\Project\programer\Lap tring mang\doan Ai la trieu phu\Main\AIlatrieuphu\Client\UIprj\obj\Debug\Client.csproj.GenerateResource.Cache
+F:\Project\programer\Lap tring mang\doan Ai la trieu phu\Main\AIlatrieuphu\Client\UIprj\bin\Debug\UIprj.exe
+F:\Project\programer\Lap tring mang\doan Ai la trieu phu\Main\AIlatrieuphu\Client\UIprj\bin\Debug\UIprj.pdb
+F:\Project\programer\Lap tring mang\doan Ai la trieu phu\Main\AIlatrieuphu\Client\UIprj\obj\Debug\Client.Form2.resources
+F:\Project\programer\Lap tring mang\doan Ai la trieu phu\Main\AIlatrieuphu\Client\UIprj\obj\Debug\Client.Form3.resources
+F:\Project\programer\Lap tring mang\doan Ai la trieu phu\Main\AIlatrieuphu\Client\UIprj\obj\Debug\Client.Properties.Resources.resources
+F:\Project\programer\Lap tring mang\doan Ai la trieu phu\Main\AIlatrieuphu\Client\UIprj\obj\Debug\Client.GameOver.resources
+F:\Project\programer\Lap tring mang\doan Ai la trieu phu\Main\AIlatrieuphu\Client\UIprj\obj\Debug\Client.Form5.resources
+F:\Project\programer\Lap tring mang\doan Ai la trieu phu\Main\AIlatrieuphu\Client\UIprj\obj\Debug\Client.Form6.resources
